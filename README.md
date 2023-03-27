@@ -3,9 +3,11 @@
 
 <img align="right" height="300px" width="300px" src="https://raw.githubusercontent.com/gist/andersilva2710/339a7576efb55344afaea86e75e387ff/raw/04d8654c04e279f024533fa10dd29d65ed0d0d7f/photo.svg" />
 
-</br>
+<br>
+
 #### Apaixonado por Tecnologia
-</br>
+
+<br>
 
 
 <div align="left">
