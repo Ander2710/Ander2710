@@ -1,16 +1,14 @@
 
 ## Olá, eu sou Anderson Silva!
-#### Estudante de Programação Back-end na  [Cubos Academy](https://github.com/cubos-academy) 
+#### Um apaixonado por Tecnologia estudando Programação Back-end na  [Cubos Academy](https://github.com/cubos-academy)
+
+#### Atualmente, estou fazendo um curso de back-end para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Aplicações escaláveis de alta performance e qualidade para empresas.
+
+<hr>
 
 <img align="right" height="250px" width="300px" src="https://raw.githubusercontent.com/gist/igrootdev/339a7576efb55344afaea86e75e387ff/raw/04d8654c04e279f024533fa10dd29d65ed0d0d7f/photo.svg" />
 
-
-
-
 <br>
-
-#### Apaixonado por Tecnologia
-
 <br>
 <br>
 <br>
