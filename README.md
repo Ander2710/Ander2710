@@ -17,12 +17,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrootdev&layout=compact&hide_border=true&title_color=#0CD0CD&text_color=#0CD0CD&bg_color=0d1117" /></div>
 
 <hr>
-<a href="http://www.github.com/andersilva2710"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igrootdev&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/igrootdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igrootdev&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <hr>
 
 
-### Studying in this moment:
+### Estudando neste momento
 
 <div>
 
@@ -34,6 +34,16 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
  
+</div>
+
+### Tecnologias Futuras
+
+<div>
+
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+<img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+
 </div>
 
 </br>
