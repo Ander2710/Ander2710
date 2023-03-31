@@ -1,31 +1,19 @@
-<div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017BBA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Groot+Dev+:%29;Student+in+Back-end+Development;Welcome!)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017BBA&size=50&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Groot+Dev+:%29;Student+in+Back-end+Development;Welcome!)](https://git.io/typing-svg)
+
 
 <img align="center" height="250px" width="300px" src="https://raw.githubusercontent.com/gist/igrootdev/339a7576efb55344afaea86e75e387ff/raw/04d8654c04e279f024533fa10dd29d65ed0d0d7f/photo.svg" />
 
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+ </div>
 
 ## Meu nome é Anderson Silva
 #### Um apaixonado por Tecnologia, estudando Programação Back-end na  [Cubos Academy](https://github.com/cubos-academy)
 
-<h4 align="justify">Atualmente, estou fazendo um curso de back-end para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Aplicações escaláveis de alta performance e qualidade para empresas.</h4>
-
-
+<h4 align="justify">Atualmente, estou fazendo um curso de Desenvolvedor Backend para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Aplicações escaláveis de alta performance e qualidade para empresas.</h4>
 
 <hr>
-
 
 ## GitHub Stats:
 
@@ -61,6 +49,12 @@
 
 <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 
+ <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+ 
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+          
+          
+
 </div>
 
 </br>
@@ -74,6 +68,7 @@
   <a href="https://www.linkedin.com/in/anderson-silva-431135144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
