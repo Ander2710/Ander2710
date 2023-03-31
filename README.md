@@ -8,10 +8,14 @@
 
 <br>
 
-# Meu nome é Anderson Silva
+<div>
+
+## Meu nome é Anderson Silva
 #### Um apaixonado por Tecnologia, estudando Programação Back-end na  [Cubos Academy](https://github.com/cubos-academy)
 
 <h4 align="justify">Atualmente, estou fazendo um curso de back-end para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Aplicações escaláveis de alta performance e qualidade para empresas.</h4>
+
+</div>
 
 <hr>
 
