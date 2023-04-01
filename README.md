@@ -9,7 +9,7 @@
  </div>
 
 ## Meu nome é Anderson Silva
-#### Um apaixonado por Tecnologia, estudando Programação Back-end na  [Cubos Academy](https://github.com/cubos-academy)
+#### Um apaixonado por Tecnologia, estudando Programação Back-end na  [Cubos Academy](https://cubos.academy)
 
 <h4 align="justify">Atualmente, estou fazendo um curso de Desenvolvedor Backend para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Aplicações escaláveis de alta performance e qualidade para empresas.</h4>
 
@@ -18,8 +18,8 @@
 ## GitHub Stats:
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igrootdev&show_icons=true&count_private=true&hide_border=true&title_color=#0CD0CD&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Anderson Silva GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrootdev&layout=compact&hide_border=true&title_color=#0CD0CD&text_color=#0CD0CD&bg_color=0d1117" /></div>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=igrootdev&show_icons=true&count_private=true&hide_border=true&title_color=#0CD0CD&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Anderson Silva GitHub Stats" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrootdev&layout=compact&hide_border=true&title_color=#0CD0CD&text_color=#0CD0CD&bg_color=0d1117" /></div>
 
 <hr>
 <a href="http://www.github.com/igrootdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igrootdev&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
