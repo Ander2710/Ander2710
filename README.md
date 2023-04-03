@@ -11,7 +11,7 @@
 ## Meu nome é Anderson Silva
 #### Um apaixonado por Tecnologia, estudando Programação Back-end na  [Cubos Academy](https://cubos.academy)
 
-<h4 align="justify">Atualmente, estou fazendo um curso de Desenvolvedor Backend para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Aplicações escaláveis de alta performance e qualidade para empresas.</h4>
+<h4 align="justify">Atualmente, cursando Desenvolvimento Backend para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Buscando sempre, alta performance e qualidade.</h4>
 
 <hr>
 
