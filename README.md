@@ -1,80 +1,31 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017BBA&size=50&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Groot+Dev+:%29;Student+in+Back-end+Development;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017BBA&size=50&center=true&vCenter=true&width=1000&lines=Bem-vindo(a):%29;Welcome!)](https://git.io/typing-svg)
 
 
 <img align="center" height="250px" width="300px" src="https://raw.githubusercontent.com/gist/igrootdev/339a7576efb55344afaea86e75e387ff/raw/04d8654c04e279f024533fa10dd29d65ed0d0d7f/photo.svg" />
 
  </div>
 
-## Meu nome é Anderson Silva
-#### Um apaixonado por Tecnologia, estudando Programação Back-end na  [Cubos Academy](https://cubos.academy)
-
-<h4 align="justify">Atualmente, cursando Desenvolvimento Backend para aprender a desenvolver sistemas variados, sites dinâmicos, aplicativos Desktop, automatizar processos, entre outros. Buscando sempre, alta performance e qualidade.</h4>
-
-<hr>
-
-## GitHub Stats:
-
-<div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=igrootdev&show_icons=true&count_private=true&hide_border=true&title_color=#0CD0CD&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Anderson Silva GitHub Stats" /> 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrootdev&layout=compact&hide_border=true&title_color=#0CD0CD&text_color=#0CD0CD&bg_color=0d1117" /></div>
-
-<hr>
-<a href="http://www.github.com/igrootdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igrootdev&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<hr>
+# 💫 Sobre mim:
+👋 Olá, sou Anderson Silva!<br><br>🚀 Desenvolvedor Backend JavaScript | Node.JS. Estudando Desenvolvimento na [Cubos Academy](https://cubos.academy/). Apaixonado por tecnologia e ciências no geral. Estou sempre buscando maneiras de aprender e inovar.<br><br>💼 Estou em transição de carreira, e pretendo trabalhar em projetos desafiadores e buscar tornar a tecnologia mais acessível a todos.<br><br>🌱 Sempre me esforçando para aprender algo novo, estou explorando conceitos e práticas de autenticação e criptografia.<br><br>🎓 Formado em Técnico em Automação Industrial pelo SENAI-BAHIA. Tive a experiência de trabalhar na indústria automotiva com células robotizadas de solda, onde percebi que a tecnologia é o meu mundo.<br><br>📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/anderson-silva2710/). Vamos conectar e compartilhar conhecimentos!<br>
 
 
-### Estudando neste momento
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/igrootdev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anderson-silva2710/) 
 
-<div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=igrootdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=igrootdev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=igrootdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
- 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Tecnologias Futuras
+---
+[![](https://visitcount.itsvg.in/api?id=igrootdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div>
-
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-
- <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
- 
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-          
-          
-
-</div>
-
-</br>
-<hr>
-
-### Contatos
-<div> 
-
-  <a href="https://www.instagram.com/igrootdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ander.silva2710.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-silva-431135144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andersilva2710}/count.svg" /></p> 
-<br>
-</div> -->
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
